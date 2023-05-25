@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a2eac3571932c44ae0000ea54d6da2, type: 3}
+  m_Name: Fists
+  m_EditorClassIdentifier: 
+  name: Fists
+  attackRate: 0.25
+  damage: 30
+  anims:
+  - fist_1
+  - fist_2
+  attackSfx:
+  - clip: {fileID: 8300000, guid: cb4877ee9e800b94da837b70f258c073, type: 3}
+    minPitch: 0.8
+    maxPitch: 1.2
+  - clip: {fileID: 8300000, guid: e410708a97fcaa84da6755068fa03f2b, type: 3}
+    minPitch: 0.8
+    maxPitch: 1.2
+  - clip: {fileID: 8300000, guid: 32b2a8ede3b28a741b18f3a7d061ebe4, type: 3}
+    minPitch: 0.8
+    maxPitch: 1.2
+  hitSfx:
+  - clip: {fileID: 8300000, guid: dd6404f87c5640246ae3058adc267ef2, type: 3}
+    minPitch: 0.8
+    maxPitch: 1.2
+  - clip: {fileID: 8300000, guid: acb8d1e27be6b784da339557f4e05e6f, type: 3}
+    minPitch: 0.8
+    maxPitch: 1.2
+  - clip: {fileID: 8300000, guid: a655f43e4b7fb614f908d8dcb2400644, type: 3}
+    minPitch: 0.8
+    maxPitch: 1.2
+  magnitude: 3
+  roughness: 2
+  fadeIn: 0
+  fadeOut: 0.5

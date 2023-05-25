@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc3ea2a879cf74243a6a1580b0543984, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  name: Pistol
+  fireRate: 0.1
+  damage: 30
+  mag: 360
+  bulletSpeed: 50
+  knockback: 0
+  auto: 0
+  shotgun: 0
+  pellets: 0
+  spread: 0.05
+  shootSfx:
+  - clip: {fileID: 8300000, guid: e3a4dfc4ee36ab44ea9fca1a689539ba, type: 3}
+    minPitch: 0.8
+    maxPitch: 1.2
+  - clip: {fileID: 8300000, guid: 0262087f0b060c84b81652e080731629, type: 3}
+    minPitch: 0.8
+    maxPitch: 1.2
+  magnitude: 4
+  roughness: 2
+  fadeIn: 0
+  fadeOut: 0.5
