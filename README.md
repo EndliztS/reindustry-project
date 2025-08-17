@@ -1,7 +1,14 @@
-# reindustry-project
+<img width="766" height="264" alt="{91F9A3B6-E733-47DC-9866-B785130467EF}" src="https://github.com/user-attachments/assets/bcaaffc4-04ed-465a-ada1-d90fd932841a" /># reindustry-project
 kool 2d action platformer with robot enemies, guns and crates!
 
 try my game!: https://forceofthefield.itch.io/reindustry
+
+features:
+- a fixed level, platformer
+- double jump!
+- robots enemies
+- Lots of guns!
+- Lootboxed, where your luck depend... will you get a new weapon, or another deadly foe?
 
 ![preview_1](https://github.com/EndliztS/reindustry-project/assets/87404470/78edbbd9-9017-4a2b-bded-3ac5caa5fac6)
 
