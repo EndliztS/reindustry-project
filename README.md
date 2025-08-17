@@ -1,4 +1,4 @@
-<img width="766" height="264" alt="{91F9A3B6-E733-47DC-9866-B785130467EF}" src="https://github.com/user-attachments/assets/bcaaffc4-04ed-465a-ada1-d90fd932841a" /># reindustry-project
+# reindustry-project
 kool 2d action platformer with robot enemies, guns and crates!
 
 try my game!: https://forceofthefield.itch.io/reindustry
